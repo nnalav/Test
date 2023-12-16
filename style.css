@@ -19,7 +19,7 @@ body{
 .menu-item:not(:last-child){
     margin-right: 63px;
 }
-.menu-item a {
+.menu-item {
     text-decoration: none;
     color: white;
 }
@@ -40,7 +40,7 @@ body{
     margin-left: 0;
     opacity: 0.7;
 }
-.buttom-order {
+.button-order {
     all: unset;
     padding: 22px 55px;
     background: #f6762c;
