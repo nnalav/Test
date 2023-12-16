@@ -19,7 +19,7 @@ body{
 .menu-item:not(:last-child){
     margin-right: 63px;
 }
-.menu-item a{
+.menu-item a {
     text-decoration: none;
     color: white;
 }
